@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nelioats
-- 👀 I’m interested in laravel, livewire, html e css
-- 🌱 I’m currently vue.js
+- 👀 I’m interested in laravel, livewire, react, html e css
+- 🌱 I’m currently react.js
 - 📫 How to reach me nelioats@gmail.com
 
 <!---
